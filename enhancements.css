@@ -239,20 +239,19 @@ body {
     left: 10px;
     right: 10px;
     bottom: 78px;
-    grid-template-columns: 92px minmax(0, 1fr);
+    grid-template-columns: 78px minmax(0, 1fr);
     gap: 10px;
     width: auto;
-    max-height: 34vh;
+    max-height: 28vh;
     padding: 9px;
   }
 
   .scene-media img {
-    height: 104px;
+    height: 88px;
   }
 
   .scene-media figcaption {
-    padding: 4px 5px;
-    font-size: 0.52rem;
+    display: none;
   }
 
   .panel-topline {
